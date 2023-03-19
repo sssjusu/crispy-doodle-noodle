@@ -1,5 +1,7 @@
 # crispy-doodle-noodle
 
+-   [Rizz Academy](https://sssjusu.github.io/crispy-doodle-noodle/)
+
 Links:
 -   [Google](https://google.com)
 -   [Youtube](https://www.youtube.com)
