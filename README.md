@@ -15,3 +15,8 @@ Links:
 -   [Nextdns](https://my.nextdns.io)
 -   [Cool Electronics](https://coolelectronics.me/home)
 -   [Cool Electronics (Unenroller)](https://coolelectronics.me/unroll)
+
+Emulators:
+-   [Copy.sh](https://copy.sh/v86/-)
+-   [Jslinux](https://bellard.org/jslinux/)
+-   [Virtual Machine](https://virtual-machine.acompletenewb.repl.co)
