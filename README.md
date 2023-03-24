@@ -11,7 +11,7 @@ Links:
 -   [Rena](https://rena.gq)
 -   [Ludicrous](https://plantheaven.net)
 -   [Cheatnetwork](https://cheatnetwork.eu)
--   [Stars.gq](http://stars.gq/)
+-   [J0eshomework](http://onionboard.rf.gd/?i=1)
 -   [Nextdns](https://my.nextdns.io)
 -   [Cool Electronics](https://coolelectronics.me/home)
 -   [Cool Electronics (Unenroller)](https://coolelectronics.me/unroll)
